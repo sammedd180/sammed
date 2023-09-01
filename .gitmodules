@@ -1,0 +1,6 @@
+[submodule "cow"]
+	path = cow
+	url = https://github.com/sammedd180/sammed.git
+[submodule "bull"]
+	path = bull
+	url = https://github.com/sammedd180/sammed.git
